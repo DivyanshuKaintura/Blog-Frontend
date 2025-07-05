@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Image from 'next/image';
-import { Search, Bell, ChevronDown, Grid, List, MoreHorizontal, Plus, Upload, X, ArrowLeft, Calendar, Clock, CheckCircle, FileText } from 'lucide-react';
+import { Search, Bell, ChevronDown, Grid, List, MoreHorizontal, Plus, Upload, X, Calendar, Clock, CheckCircle, FileText } from 'lucide-react';
 import workspace from '../../../public/dashboardicon.png';
 import contract from '../../../public/contract.png';
 import draft from '../../../public/draft.png';
